@@ -1,0 +1,10 @@
+h1{
+    padding: 10px 10px 20px 20px;
+    color:rgb(35, 35, 163);
+    font-size:20px;
+    text-shadow: 1px 1px 1px;
+}
+#ECG-Input{
+    text-align: center;
+    
+}
